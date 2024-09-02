@@ -16,3 +16,11 @@ Reproduce/ViTAF_Reproduce/
 \[2024_ICTC\]\ DSDBNet/data/
 \[2024_ICTC\]\ DSDBNet/scripts/
 \[2024_ICTC\]\ DSDBNet/wandb/
+\[2024_KDFS\]\ Cross-Domain_Fingerprint_Recognition/analysis/
+\[2024_KDFS\]\ Cross-Domain_Fingerprint_Recognition/analysis_results/
+\[2024_KDFS\]\ Cross-Domain_Fingerprint_Recognition/checkpoints/
+\[2024_KDFS\]\ Cross-Domain_Fingerprint_Recognition/ckpt/
+\[2024_KDFS\]\ Cross-Domain_Fingerprint_Recognition/data/
+\[2024_KDFS\]\ Cross-Domain_Fingerprint_Recognition/models/
+\[2024_KDFS\]\ Cross-Domain_Fingerprint_Recognition/scripts/
+\[2024_KDFS\]\ Cross-Domain_Fingerprint_Recognition/wandb/
