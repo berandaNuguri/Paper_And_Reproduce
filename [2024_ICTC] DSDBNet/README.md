@@ -1,4 +1,4 @@
 # [2024_ICTC] DSDBNet
 
 ## Official Paper
-To Be Added(Accepted Paper)
+[https://ieeexplore.ieee.org/abstract/document/10827355](https://ieeexplore.ieee.org/abstract/document/10827355)
